@@ -1,9 +1,17 @@
 # carProject
 JavaScript task
+
+
+
+
+
 /**
      * This is the function where you need to write your code solution
      * "roadDamages" is defined down below, where the function gets called
      */
+     
+     
+     
     function moveCar(roadDamages) {
        // TODO Implement the solution here
        let count = 1;
