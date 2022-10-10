@@ -29,4 +29,4 @@
      * This code line is required in order to trigger automated tests
      * Do not change this code line
      */
-    export default moveCar;
+    //export default moveCar;
